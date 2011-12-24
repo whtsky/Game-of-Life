@@ -12,8 +12,8 @@ else:
     def cls():
         os.system("clear")
 
-SIZE = 25 #表的边长.
-RANDOM = 30 #值越大初始细胞越多
+SIZE = 30 #表的边长.
+RANDOM = 10 #值越大初始细胞越多
 DAILY = 0.5 #演化间隔时间
 
 REALIVE = 3 #周围细胞数等于本数，该细胞复活
