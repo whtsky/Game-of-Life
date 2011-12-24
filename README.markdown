@@ -1,3 +1,1 @@
-Game of Life ÉúÃüÓÎÏ·  
-=====
-×Ô¼º¿´Ô´´úÂë.
+ï»¿#Game of Life ç”Ÿå‘½æ¸¸æˆ  
