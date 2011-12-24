@@ -12,7 +12,7 @@ else:
     def cls():
         os.system("clear")
 
-SIZE = 10
+SIZE = 25 #表的边长.
 RANDOM = 30 #值越大初始细胞越多
 DAILY = 0.5 #演化间隔时间
 
